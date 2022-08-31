@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 박주하입니다.👋
+### 안녕하세요 언제나 열정적인 끈기를 가진 개발자 박주하입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPjh01)](https://hits.seeyoufarm.com)
 <!--
 **Pjh01/Pjh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
